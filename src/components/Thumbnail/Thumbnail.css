@@ -1,0 +1,19 @@
+.main-div {
+  width: 100%;
+  height: 2000px;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhB1aFPd-hm0RZqhlCzED3C9dk42Se2d6MA&usqp=CAU);
+  padding: 5%;
+}
+.thumbnail {
+  width: 100%;
+  height: 100%;
+  margin-left: 0.5%;
+  margin-top: -4%;
+}
+
+.img {
+  background-color: rgb(96, 76, 76);
+  float: left;
+  margin-left: 5%;
+  margin-top: 5%;
+}

@@ -1,0 +1,98 @@
+.home-content {
+  width: 100%;
+  height: 800px;
+  padding: 5%;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhB1aFPd-hm0RZqhlCzED3C9dk42Se2d6MA&usqp=CAU);
+}
+.center-content {
+  height: 600px;
+  width: 80%;
+  position: absolute;
+  margin-left: 5%;
+  display: flex;
+  background-color: rgb(50, 50, 48);
+}
+.image-section {
+  width: 50%;
+  height: 100%;
+}
+.image-section:hover {
+  border: 1px solid rgb(27, 87, 67);
+}
+
+.content-section {
+  width: 50%;
+  height: 100%;
+  color: white;
+  padding: 5%;
+}
+.content-section:hover {
+  background-color: rgb(27, 87, 67);
+}
+.image-content {
+  width: 95%;
+  height: 98%;
+  padding: 1%;
+}
+
+.upload {
+  height: 100%;
+  width: 50%;
+  float: left;
+}
+.upload-image {
+  width: 95%;
+  height: 70%;
+  margin-left: 3%;
+  margin-top: 1%;
+}
+.upload-image:hover {
+  position: relative;
+  top: -10px;
+  right: 20px;
+}
+
+.image-text {
+  font-size: 35px;
+  font-weight: 500;
+  margin-left: 15%;
+  margin-top: 5%;
+  color: rgb(13, 129, 202);
+  float: left;
+}
+.upload-icon {
+  margin-top: 3%;
+  margin-left: 5%;
+}
+.uploadeded {
+  height: 100%;
+  width: 50%;
+}
+.uploaded-image {
+  width: 85%;
+  height: 70%;
+  margin-left: 3%;
+  margin-top: 1%;
+}
+.uploaded-image:hover {
+  position: relative;
+  top: -10px;
+  left: 20px;
+}
+
+.content {
+  margin-top: 11%;
+}
+
+.center-contents {
+  height: 400px;
+  width: 80%;
+  position: absolute;
+  margin-left: 5%;
+  display: flex;
+  margin-top: 3%;
+}
+
+.upload-icon:hover {
+  border: 2px solid rgb(193, 59, 18);
+}

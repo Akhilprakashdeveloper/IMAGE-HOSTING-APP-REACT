@@ -1,0 +1,30 @@
+.main {
+  width: 100%;
+  height: 800px;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhB1aFPd-hm0RZqhlCzED3C9dk42Se2d6MA&usqp=CAU);
+  padding: 8%;
+}
+
+.image-upload {
+  height: 300px;
+  width: 80%;
+  border: 1px solid rgba(187, 119, 119, 0.105);
+  background-image: url(https://tse2.mm.bing.net/th?id=OIP.83M39uq0uM4avZrJ98SMAwHaEK&pid=Api&P=0);
+  margin-left: 10%;
+}
+
+.file {
+  height: 100px;
+  width: 50%;
+  color: rgb(177, 205, 18);
+  background-image: url(https://tse1.mm.bing.net/th?id=OIP.MK-yUN_7Ru74_VEXNhaSEgHaE7&pid=Api&P=0);
+  margin-left: 25%;
+  margin-top: 11%;
+  display: flex;
+}
+
+.file:hover {
+  color: rgb(1, 250, 1);
+  font-size: 15px;
+  font-weight: bolder;
+}
